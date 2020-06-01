@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src="images/logo.png">
+    <img alt="" title="" src="imgs/logo.png">
 </h1>
 
 <!-- <p align="center">
@@ -16,7 +16,7 @@
 
 <h3 align="center"> Project for ONGs to register cases with their needs and people to volunteer to help. </h3>
 
-<h3 align="center"><img src="images/react.svg" alt="react" height="18"> React, <img src="images/react.svg" alt="react-native" height="18"> React Native, <img src="images/nodejs.svg" alt="node" height="18"> Node.js, <img src="images/postgresql.svg" alt="postgresql" height="18"> PostgreSQL </h3>
+<h3 align="center"><img src="imgs/react.svg" alt="react" height="18"> React, <img src="imgs/react.svg" alt="react-native" height="18"> React Native, <img src="imgs/nodejs.svg" alt="node" height="18"> Node.js, <img src="imgs/postgresql.svg" alt="postgresql" height="18"> PostgreSQL </h3>
 
 <p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
 
@@ -91,15 +91,15 @@ If you are going to use your smartphone, enter the Expo application and scan the
 <!-- The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBwJ90o/Be-The-Hero---OmniStack-11). -->
 
 ## Screens
-<!-- ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_ong.png)
+<!-- ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/imgs/new_ong.png)
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/login.png)
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/imgs/login.png)
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_incident.png)
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/imgs/new_incident.png)
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/incidents.png)
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/imgs/incidents.png)
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/smartphone.png) -->
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/imgs/smartphone.png) -->
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
