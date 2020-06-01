@@ -16,19 +16,11 @@
 
 <h3 align="center"> Project for ONGs to register cases with their needs and people to volunteer to help. </h3>
 
-<h3 align="center"><img src="imgs/react.svg" alt="react" height="24"> React, <img src="imgs/react.svg" alt="react-native" height="24"> React Native, <img src="imgs/nodejs.svg" alt="node" height="24"> Node.js, <img src="imgs/postgresql.svg" alt="postgresql" height="24"> PostgreSQL </h3>
+<h3 align="center"><a href="https://reactjs.org/"><img src="imgs/react.svg" alt="react" height="24"> React</a>, <a href="https://reactnative.dev/"><img src="imgs/react.svg" alt="react-native" height="24"> React Native</a>, <a href="https://nodejs.org/en/"><img src="imgs/nodejs.svg" alt="node" height="24"> Node.js</a>, <a href="https://www.postgresql.org/"><img src="imgs/postgresql.svg" alt="postgresql" height="24"> PostgreSQL</a></h3>
 
 <p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
 
 ---
-
-## Technologies
-
-<ul>
-    <li><a href="https://nodejs.org/en/">Node.js</a></li>
-    <li><a href="https://reactjs.org/">ReactJS</a></li>
-    <li><a href="https://reactnative.dev/">React Native</a></li>
-</ul>
 
 ## Tools
 
