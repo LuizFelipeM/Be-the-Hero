@@ -16,9 +16,9 @@
 
 <h3 align="center"> Project for ONGs to register cases with their needs and people to volunteer to help. </h3>
 
-<h3 align="center"><a href="https://reactjs.org/"><img src="imgs/react.svg" alt="react" height="24"> React</a>, <a href="https://reactnative.dev/"><img src="imgs/react.svg" alt="react-native" height="24"> React Native</a>, <a href="https://nodejs.org/en/"><img src="imgs/nodejs.svg" alt="node" height="24"> Node.js</a>, <a href="https://www.postgresql.org/"><img src="imgs/postgresql.svg" alt="postgresql" height="24"> PostgreSQL</a></h3>
+<h3 align="center"><a href="https://reactjs.org/" style="color: black;"><img src="imgs/react.svg" alt="react" height="24" style="margin-bottom: -4px;"> React</a>, <a href="https://reactnative.dev/" style="color: black;"><img src="imgs/react.svg" alt="react-native" height="24" style="margin-bottom: -4px;"> React Native</a>, <a href="https://nodejs.org/en/" style="color: black;"><img src="imgs/nodejs.svg" alt="node" height="24" style="margin-bottom: -4px;"> Node.js</a>, <a href="https://www.postgresql.org/" style="color: black;"><img src="imgs/postgresql.svg" alt="postgresql" height="24" style="margin-bottom: -4px;"> PostgreSQL</a></h3>
 
-<p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
+<p align="center"> Using the power of a powerful stack, using a single popular and modern language, Typescript. <br> Lean productivity and performance. </p>
 
 ---
 
