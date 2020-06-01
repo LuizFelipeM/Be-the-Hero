@@ -2,7 +2,7 @@
     <img alt="" title="" src="images/logo.png">
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/annaflavia-castro/be-the-hero.svg">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/annaflavia-castro/be-the-hero.svg">
@@ -12,11 +12,11 @@
   
   <a href="https://github.com/annaflavia-castro/be-the-hero/blob/master/LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/badge/license-MIT-success?style=flat"></a>
-</p>
+</p> -->
 
 <h3 align="center"> Project for ONGs to register cases with their needs and people to volunteer to help. </h3>
 
-<h3 align="center"><img src="images/react.png" alt="react" height="18"> React, <img src="images/react-native.png" alt="react-native" height="18"> React Native, <img src="images/node.png" alt="node" height="18"> Node.js, <img src="images/sqlite.png" alt="sqlite" height="18"> SQLite </h3>
+<h3 align="center"><img src="images/react.svg" alt="react" height="18"> React, <img src="images/react.svg" alt="react-native" height="18"> React Native, <img src="images/nodejs.svg" alt="node" height="18"> Node.js, <img src="images/postgresql.svg" alt="postgresql" height="18"> PostgreSQL </h3>
 
 <p align="center"> Using the power of a powerful stack, using a single popular and modern language, JavaScript. <br> Lean productivity and performance. </p>
 
@@ -46,7 +46,7 @@
 
 ## Getting started
 
-Clone this repository `https://github.com/annaflavia-castro/be-the-hero.git`
+Clone this repository `https://github.com/LuizFelipeM/Be-the-Hero.git`
 
 <h3> Backend </h3>
 
@@ -84,14 +84,14 @@ If you are going to use your smartphone, enter the Expo application and scan the
 
 ## Insomnia requisition collection
 
-The collection of test requests for this project, are in the insomnia.test.json file at the root of the backend project.
+<!-- The collection of test requests for this project, are in the insomnia.test.json file at the root of the backend project. -->
 
-## Layout
+<!-- ## Layout -->
 
-The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBwJ90o/Be-The-Hero---OmniStack-11).
+<!-- The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBwJ90o/Be-The-Hero---OmniStack-11). -->
 
 ## Screens
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_ong.png)
+<!-- ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/new_ong.png)
 
 ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/login.png)
 
@@ -99,11 +99,11 @@ The layout is available on [Figma](https://www.figma.com/file/iqE3vgR6PDxhD3ejBw
 
 ![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/incidents.png)
 
-![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/smartphone.png)
+![image](https://github.com/annaflavia-castro/be-the-hero/blob/master/images/smartphone.png) -->
 
 ## License
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
 
 ---
 
-<p align="center">Made with ❤️ by <strong>Anna Flávia Castro</p>
+<!-- <p align="center">Made with ❤️ by <strong>Anna Flávia Castro</p> -->
