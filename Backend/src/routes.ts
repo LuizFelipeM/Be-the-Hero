@@ -14,9 +14,9 @@ const routes = Router();
 routes.get('/ongs', ongs.listAll);
 routes.post('/ongs', [ ongCreationValidation, ongs.create ]);
 
-routes.get('/incidents', [ getIncidentsPageValidator, incidents.listAll]);
+routes.get('/incidents', [ getIncidentsPageValidator, incidents.listAll ]);
 routes.post('/incidents', incidents.create);
-routes.delete('/incidents/:id', [ deletingIncidentsValidator, incidents.delete]);
+routes.delete('/incidents/:id', [ deletingIncidentsValidator, incidents.delete ]);
 
 routes.get('/profile', [ getPorfileIncidentsValidation, profile.listAllIncidents ]);
 
